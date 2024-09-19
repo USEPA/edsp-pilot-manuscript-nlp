@@ -1,8 +1,8 @@
 # EDSP Pilot Manuscript NLP
 
-This repo contains code supporting the NLP modeling outlined in the following manuscript: 
+This repo contains NLP modeling code outlined in the following manuscript: 
 
-Lea, I.A., Wikoff, D. Borghoff, S., Fitch, S., Chappell, G., Urban, J.D., Perry, C., Choksi, N., Britt, J., Heintz, M., Klaren, W., Chew, R., Edwards, S., Bever, R.J., Hamernik, K., Kirk, A.B., Lynn, S.G., Markey, K.J. (2024) "Development of a systematic evidence mapping workflow and case study application of the workflow to interrogate thyroid hormone network information".
+`Lea, I.A., Wikoff, D. Borghoff, S., Fitch, S., Chappell, G., Urban, J.D., Perry, C., Choksi, N., Britt, J., Heintz, M., Klaren, W., Chew, R., Edwards, S., Bever, R.J., Hamernik, K., Kirk, A.B., Lynn, S.G., Markey, K.J. (2024) "Development of a systematic evidence mapping workflow and case study application of the workflow to interrogate thyroid hormone network information".`
 
 Disclaimer: The United States Environmental Protection Agency (EPA) GitHub project
 code is provided on an "as is" basis and the user assumes responsibility for its use. EPA
