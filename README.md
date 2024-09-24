@@ -12,6 +12,8 @@ In particular, the notebooks directory contains three relevant files:
 - **03_Article_Similiarity.ipynb**
   - Demonstrates article similarity approach used to support article selection.
 
+**Tags**: systematic evidence mapping, machine learning, NLP, text classification, semantic similarity
+
 ## Getting Started
 
 To run notebooks, first install the required python packages:
